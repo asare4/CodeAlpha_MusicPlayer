@@ -1,6 +1,6 @@
 # Music Player
 
-![Music Player Screenshot](images/img10.jpg)
+![Music Player Screenshot](images/img10.png)
 
 ## Overview
 
